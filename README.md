@@ -1,4 +1,4 @@
-# ToonToon-GO - Watch Cartoons for Free in One Web App Just Like TV
+# ToonToon-GO - Watch Cartoons Tv for Free 
 
 ![ToonToon-GO](https://github.com/user-attachments/assets/8e60f72c-98b0-410e-a592-7a44949b4aa2)
 
