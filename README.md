@@ -1,4 +1,5 @@
 # ToonToon-GO
+![image](https://github.com/user-attachments/assets/8e60f72c-98b0-410e-a592-7a44949b4aa2)
 
 ToonToon-GO is a modern Cartoon TV web application built with React that allows users to stream live cartoon channels directly from YouTube. With a user-friendly interface, the app features a virtual remote control for seamless channel switching.
 
@@ -65,8 +66,8 @@ Follow these steps to set up the project locally:
 
 ## Screenshots
 
-![ToonToon-GO Screenshot 1](https://via.placeholder.com/800x450?text=ToonToon-GO+Streaming+Screen)
-![ToonToon-GO Screenshot 2](https://via.placeholder.com/800x450?text=Virtual+Remote+Control)
+![image](https://github.com/user-attachments/assets/37c758bc-9920-499a-b88b-860c18d22550)
+
 
 *Screenshots can be added here to showcase the app interface and features.*
 
