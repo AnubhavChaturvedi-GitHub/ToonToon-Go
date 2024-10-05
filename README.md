@@ -1,8 +1,6 @@
 # ToonToon-GO
-[Live Demo](https://toontoon-go.netlify.app/)
 ![image](https://github.com/user-attachments/assets/8e60f72c-98b0-410e-a592-7a44949b4aa2)
-
-ToonToon-GO is a modern Cartoon TV web application built with React that allows users to stream live cartoon channels directly from YouTube. With a user-friendly interface, the app features a virtual remote control for seamless channel switching.
+ToonToon-GO is a modern Cartoon TV web application built with React that allows users to stream live cartoon channels directly from YouTube. With a user-friendly interface, the app features a virtual remote control for seamless channel switching. [Live Demo](https://toontoon-go.netlify.app/)
 
 ## Table of Contents
 
